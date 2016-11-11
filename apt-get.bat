@@ -4,6 +4,9 @@
 goto :start
 
 :Usage
+echo.
+echo ADAM MAURER IS AWESOME!
+echo.
 echo Wrapper for Chocolatey (just to make things even easier)
 echo.
 echo    Syntax:  apt-get [command]

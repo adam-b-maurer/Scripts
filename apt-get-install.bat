@@ -1,0 +1,1 @@
+mklink apt-get.bat "%userprofile%\Box Sync\USB\Scripts\apt-get.bat"

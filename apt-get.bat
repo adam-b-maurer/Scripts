@@ -4,6 +4,7 @@
 goto :start
 
 :Usage
+echo.
 echo Wrapper for Chocolatey (just to make things even easier)
 echo.
 echo    Syntax:  apt-get [command]
